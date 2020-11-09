@@ -1,0 +1,6 @@
+dataclasses==0.7
+future==0.18.2
+numpy==1.19.4
+scipy==1.5.4
+torch==1.7.0
+typing-extensions==3.7.4.3
